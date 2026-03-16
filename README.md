@@ -21,7 +21,16 @@ pip install -r requirements.txt
 
 Create `.env` and add `GOOGLE_API_KEY=your_key`
 
+
 ### Test
-python main.py "What is 25 * 12?"
+
 
 python main.py "What's the weather like in New York?"
+
+<img width="613" height="154" alt="image" src="https://github.com/user-attachments/assets/eb193c12-c34a-401f-9d8a-ea78c3437ea3" />
+
+
+python main.py "What is 25 * 12?"
+
+<img width="578" height="84" alt="image" src="https://github.com/user-attachments/assets/c297ddec-a47e-4c83-87eb-c9f37e5a3fe8" />
+
