@@ -1,0 +1,9 @@
+# Ignore everything
+*
+# Allow directories
+
+# Allow specific files
+!main.py
+!agent.py
+!README.md
+!requirements.txt
